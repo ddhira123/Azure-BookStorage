@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/44ef17e9-114d-4e4c-bacb-4a3da5f67005/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/bookcataloguedes-api"
+}

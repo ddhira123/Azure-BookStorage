@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Desktop\\Lat Azure\\BooksCatalogueAPI\\BooksCatalogueAPI.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\Lat Azure\\BooksCatalogueAPI - Back End\\BooksCatalogueAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Desktop\\Lat Azure\\BooksCatalogueAPI\\BooksCatalogueAPI.csproj": {
+    "C:\\Users\\Hp\\Desktop\\Lat Azure\\BooksCatalogueAPI - Back End\\BooksCatalogueAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Lat Azure\\BooksCatalogueAPI\\BooksCatalogueAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Lat Azure\\BooksCatalogueAPI - Back End\\BooksCatalogueAPI.csproj",
         "projectName": "BooksCatalogueAPI",
-        "projectPath": "C:\\Users\\Hp\\Desktop\\Lat Azure\\BooksCatalogueAPI\\BooksCatalogueAPI.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\Lat Azure\\BooksCatalogueAPI - Back End\\BooksCatalogueAPI.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Desktop\\Lat Azure\\BooksCatalogueAPI\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\Lat Azure\\BooksCatalogueAPI - Back End\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
